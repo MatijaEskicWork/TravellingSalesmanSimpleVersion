@@ -1,0 +1,5 @@
+a)Cena je 100.9
+Putanja za bušenje ide ovako: 4 -> 6 -> 5 -> 1 -> 2 -> 3 -> 7 -> 8
+
+b)Cena je 161.4
+Putanja za bušenje ide ovako: 4 -> 6 -> 9 -> 10 -> 11 -> 8 -> 7 -> 5 -> 1 -> 2 -> 3 -> 12
